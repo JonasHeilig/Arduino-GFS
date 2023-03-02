@@ -26,7 +26,8 @@ ArduinoIDE Version : ```2.0.3```
 ###### 2.1 Theorie zu Microcontroller
 2.1.1 Was ist ein Microcontroller? <br>
 2.1.2 Was kann ein Microcontroller? <br>
-2.1.3 Welche Alternativen hat man im Betrieb?
+2.1.3 Welche Alternativen hat man im Betrieb? <br>
+2.1.3.2 Nicht Erklären wie sonst geht es zuweit
 ###### 2.2 LED blinken lassen
 2.2.1 Auf dem Arduino <br>
 2.2.2 Extene LED <br>
@@ -42,9 +43,12 @@ ArduinoIDE Version : ```2.0.3```
 2.5.1 RFID-Chip auslesen <br>
 2.5.2 Spoiler -> 2.7
 ###### 2.6 Relais
-2.6.1 Stromfluss <br>
+2.6.1 Stromfluss der Steckklemmen<br>
 2.6.2 Relais Schalten/erklären im Skript
-###### 2.7 Kombination aus RFID Modul und Relais
+###### 2.7 Buzzer
+2.7.1 Buzzer buzzern lassen <br>
+2.7.2 Im Skrip erklären mit vergelich zu Relais un LED's
+###### 2.8 Kombination aus RFID Modul und Relais
 2.7.1 ID RFID-Chip in Skript eintragen <br>
 2.7.2 Zwei Lampen an Relais (Rot; Grün) <br>
 2.7.3 Vorführen <br>
