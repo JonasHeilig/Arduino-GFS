@@ -45,9 +45,6 @@ ArduinoIDE Version : ```2.0.4```
 ###### 2.6 Relais
 2.6.1 Stromfluss der Steckklemmen<br>
 2.6.2 Relais Schalten/erklären im Skript
-###### 2.7 Buzzer
-2.7.1 Buzzer buzzern lassen <br>
-2.7.2 Im Skrip erklären mit vergelich zu Relais un LED's
 ###### 2.8 Kombination aus RFID Modul und Relais
 2.7.1 ID RFID-Chip in Skript eintragen <br>
 2.7.2 Zwei Lampen an Relais (Rot; Grün) <br>
