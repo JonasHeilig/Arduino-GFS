@@ -18,9 +18,9 @@ ArduinoIDE Version : ```2.0.4```
 ###### 1.2 Die LED
 1.2.1 Aufbau (+/-; Sperrrichtung) <br>
 1.2.2 Erster Versuch -> LED brennt durch. <br>
-1.2.3 Wiederstand benutzen -> Mit Vorgabe <br>
+1.2.3 Widerstand benutzen -> Mit Vorgabe <br>
 1.2.4 Zweiter Versuch -> Wiederstand -> LED Leuchtet <br>
-1.2.5 Wiederstand Berechnen
+1.2.5 Widerstand Berechnen
    
 ## 2. Der Arduino:
 ###### 2.1 Theorie zu Microcontroller
