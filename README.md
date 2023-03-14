@@ -28,25 +28,31 @@ ArduinoIDE Version : ```2.0.4```
 2.1.2 Was kann ein Microcontroller? <br>
 2.1.3 Welche Alternativen hat man im Betrieb? <br>
 2.1.3.2 Nicht Erklären wie sonst geht es zuweit
-###### 2.2 LED blinken lassen
-2.2.1 Auf dem Arduino <br>
-2.2.2 Extene LED <br>
-2.2.3 Skript erklären
-###### 2.3 LCD (Display) mit I2c
+###### 2.2 LCD (Display) mit I2c
 2.3.1 Bedutung des Namens -> LiquidCrystalDisplay <br>
 2.3.2 Ansteuerung mit Bibliotek (liquidcrystal_i2c.h) <br>
 2.3.3 Kurz Skript erklären nicht zu genau in einzelheiten gehen
-###### 2.4 Servor Motor
-2.4.1 Vor/Zurück <br>
-2.4.2 Skript erklären
-###### 2.5 RFID-Modul
-2.5.1 RFID-Chip auslesen <br>
-2.5.2 Spoiler -> 2.7
-###### 2.6 Relais
+###### 2.3 Servor Motor
+2.4.1 Vor/Zurück
+###### 2.4 Relais
 2.6.1 Stromfluss der Steckklemmen<br>
 2.6.2 Relais Schalten/erklären im Skript
-###### 2.8 Kombination aus RFID Modul und Relais
-2.7.1 ID RFID-Chip in Skript eintragen <br>
-2.7.2 Zwei Lampen an Relais (Rot; Grün) <br>
-2.7.3 Vorführen <br>
-2.7.4 Skript erklären
+## 3. Das Coden
+###### 3.1 LED Schalten
+3.1.1 Led Blinken lassen <br>
+3.1.2 Led Schalten ohne Arduino (Schalter) <br>
+3.1.3 Led mit Arduino schalten (Taster)
+###### 3.2 Servo Motor
+3.2.1 Vor und Zurück <br>
+3.2.1 Wenn Knopf gedrückt Vor/Zurück <br>
+3.2.1 Wenn einmal Gedrückt einloggen bis zweites Mal gedrückt (Taster)
+## 4. Das Projekt 
+###### 4.1 Vorstellung
+4.1.1 Was macht es? <br>
+4.1.2 Welche Einstellungsmöglichkeiten?
+###### 4.2 Der Code
+4.2.1 Welche Einstellungsmöglichkeiten im Code? <br>
+4.2.1 Wie ist der Code Aufgebaut?
+###### 4.3 Welche Bauteile sind verbaut?
+4.3.1 Liste der Bauteile <br>
+4.3.2 Was machen die Bauteile
