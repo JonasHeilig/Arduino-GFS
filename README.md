@@ -44,8 +44,7 @@ ArduinoIDE Version : ```2.0.4```
 3.1.3 Led mit Arduino schalten (Taster)
 ###### 3.2 Servo Motor
 3.2.1 Vor und Zurück <br>
-3.2.1 Wenn Knopf gedrückt Vor/Zurück <br>
-3.2.1 Wenn einmal Gedrückt einloggen bis zweites Mal gedrückt (Taster)
+3.2.2 Wenn Knopf gedrückt Vor/Zurück
 ## 4. Das Projekt 
 ###### 4.1 Vorstellung
 4.1.1 Was macht es? <br>
