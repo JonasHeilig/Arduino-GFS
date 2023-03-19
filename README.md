@@ -34,7 +34,7 @@ ArduinoIDE Version : ```2.0.4```
 2.3.3 Kurz Skript erklären nicht zu genau in einzelheiten gehen
 ###### 2.3 Servor Motor
 2.3.1 Vor/Zurück <br>
-3.3.1 Wenn Knopf gedrückt vor/Zurück 
+2.3.1 Wenn Knopf gedrückt vor/Zurück 
 ###### 2.4 Relais
 2.6.1 Stromfluss der Steckklemmen
 ## 3. Das Coden
