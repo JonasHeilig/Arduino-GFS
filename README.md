@@ -33,18 +33,17 @@ ArduinoIDE Version : ```2.0.4```
 2.3.2 Ansteuerung mit Bibliotek (liquidcrystal_i2c.h) <br>
 2.3.3 Kurz Skript erklären nicht zu genau in einzelheiten gehen
 ###### 2.3 Servor Motor
-2.4.1 Vor/Zurück
+2.3.1 Vor/Zurück <br>
+3.3.1 Wenn Knopf gedrückt vor/Zurück 
 ###### 2.4 Relais
-2.6.1 Stromfluss der Steckklemmen<br>
-2.6.2 Relais Schalten/erklären im Skript
+2.6.1 Stromfluss der Steckklemmen
 ## 3. Das Coden
 ###### 3.1 LED Schalten
 3.1.1 Led Blinken lassen <br>
 3.1.2 Led Schalten ohne Arduino (Schalter) <br>
 3.1.3 Led mit Arduino schalten (Taster)
-###### 3.2 Servo Motor
-3.2.1 Vor und Zurück <br>
-3.2.2 Wenn Knopf gedrückt Vor/Zurück
+###### 3.2 Relais Schalten
+3.2.1 Relais schalten
 ## 4. Das Projekt 
 ###### 4.1 Vorstellung
 4.1.1 Was macht es? <br>
